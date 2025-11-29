@@ -1,0 +1,11 @@
+Reference (Original),Prediction (V3 Output),Match
+lufthansa four four one six ah heading of one eight zero,lufthansa four four one six ah heading of one eight zero,True
+olympic one four four contact rhein one three two decimal four tschuss,olympic one four four contact rhein one three two decimal four tschuss,True
+europa three six three good morning squawk ident,europa three six three ah good morning squawk ident,False
+lufthansa four seven two three,lufthansa four seven two three,True
+tag nato ten identified,tag nato ten identified,True
+delta echo charlie rhein one three two four tschuss,and delta echo charlie rhein one three two four tschuss,False
+alitalia four eight five descend to flight level ah three one zero,alitalia four eight five descend to flight level ah three one zero,True
+speedway three three five two contact milan one three four five two bye,speedway three three five two contact milan one three four five two bye,True
+transwede one zero seven geneva one three three one five good bye,transwede one zero seven geneva one three three one five good bye,True
+lufthansa three five seven seven direct zurich east,lufthansa three five seven seven direct zurich east,True

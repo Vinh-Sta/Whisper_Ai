@@ -1,0 +1,21 @@
+# Whisper AI Project Ignore
+# --- SYSTEM & ENVIRONMENT ---
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- DATA ---
+whisper_processed/
+whisper_processed_v2_clean/
+*.json
+
+# --- MODEL OUTPUT (HEAVIEST - MUST BE IGNORED) ---
+whisper-small-atco2-en-finetune/
+whisper-small-atco2-en-finetune-V3-best/
+whisper-small-atco2-final/
+whisper-small-atco2-final-V3/
+runs/
+
